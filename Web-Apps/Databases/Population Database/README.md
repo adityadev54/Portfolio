@@ -1,13 +1,18 @@
-# Population Database Application
+Population Database Application
 
-## Overview
-This application connects to the 'PopulationDB.mdf' database, allowing users to manage city population data through a
-user-friendly interface.
+Overview
+This is a desktop application for managing city population data in the PopulationDB.mdf database, featuring an intuitive GUI for CRUD operations, sorting, and statistics.
+Features
 
-# Features
-- **Add, Edit, and Delete Cities**: Manaes city records directly in the database.
-- **Sorting**: Sort cities by name or population (ascending / descending).
-- **Statistics**: View total, average, highest, and lowest population.
+Manage Cities: Add, edit, or delete city records.
+Sort Data: Order cities by name or population (ascending/descending).
+Statistics: View total, average, highest, and lowest population.
 
-## Aditya Patel
-## CPT - 206
+Technologies
+
+Database: SQL Server Management Studio (PopulationDB.mdf)
+Language: C#
+IDE: Visual Studio 2022
+
+Author
+Aditya PatelCPT-206 Coursework
